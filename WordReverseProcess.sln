@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordReverseProcess", "WordReverseProcess\WordReverseProcess.csproj", "{68894479-59B7-4B37-B3C3-CEBF3DDF7617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{53439EF3-03DA-44C1-8C57-B846094D46FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68894479-59B7-4B37-B3C3-CEBF3DDF7617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68894479-59B7-4B37-B3C3-CEBF3DDF7617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68894479-59B7-4B37-B3C3-CEBF3DDF7617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68894479-59B7-4B37-B3C3-CEBF3DDF7617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53439EF3-03DA-44C1-8C57-B846094D46FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53439EF3-03DA-44C1-8C57-B846094D46FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53439EF3-03DA-44C1-8C57-B846094D46FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53439EF3-03DA-44C1-8C57-B846094D46FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {614E4823-A701-4E29-950A-A135E594C38F}
+	EndGlobalSection
+EndGlobal
